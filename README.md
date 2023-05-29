@@ -1,2 +1,1 @@
-# WeatherApp\
-It's easy app to see weather in any city. You must input name of city and see weather)
+Небольшое приложение weather app на winform. Все задания по sql находятся в файле task.sql
